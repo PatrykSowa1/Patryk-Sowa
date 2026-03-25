@@ -1,3 +1,8 @@
+## Project files
+
+-  Full thesis (PDF): "Wpływ debiutu giełdowego na wyniki finansowe spółki Dadelo S.A"
+-  Power BI dashboard: "Analiza efektywności operacyjnej"
+
 # Financial Analysis – Dadelo S.A.
 
 ## Overview
